@@ -1,3 +1,48 @@
-# itansers
-it answers
-Vad av följande är början på en Global Address?
+ANVÄND CONTROLL F OCH KLISTRA IN FRÅGAN I SÖKFÄLTET!!
+
+Vad av följande är början på en Global Address? 2001
+Vilket kommando visar de ”router-hop” som ett paket gör? TRACERT
+Vilken typ av routing använder routing-protokoll? DYNAMISK
+Vad av följande är början på en Link-local adress? fe80
+Vad använder en router när den ska bestämma bästa vägen för ett paket? ROUTING-TABLE
+Vad är det som gör att flera datorer kan dela på samma publika IP-nummer? NAT
+Hur förkortas IPv6-adressen 2000:00AA:0000:0001:0001:0000:0000:9012. 2000:AA:0:1:1::9012
+Vilket av följande är inte ett tunnel-protokoll som kan användas i övergången mellan IPv4 och IPv6? VPN
+Vad blir det binära talet 1101 skrivet i hexadecimal form? D
+Vad heter den funktion i Windows som låter en dela Internetanslutning? ICS
+Vad av följande är början på en Unique Local Address? FD01 
+Vilken är den primära namnuppslagningsmetoden för Windows? DNS
+Vilken typ av namnupplösning klarar enbart av IPv6? LLMNR
+Vilken typ av resource record används för namn till IPv6-adress översättning? AAAA
+Var tittar en DNS-klient först efter information om ett domännamn? Lockal DNS-cache
+Vilken typ av namnupplösning klarar av både IPv6 och IPv4? DNS
+Vilken typ av resource record används för namn till IPv4-adress översättning? A
+Vilken typ av namnupplösning används som sista utväg och klarar bara IPv4 (på lokalt nätverk)? NETBIOS
+Vilken är den primära namnuppslagningsmetoden för Windows? DNS
+Vilken typ av resource record används för namn till IPv6-adress översättning? AAAA
+Vilken typ av resource record används för att hitta mejlservern till en domän? MX
+Var tittar en DNS-klient först efter information om ett domännamn? Lockal DNS-cache
+Vilken typ av namnupplösning klarar enbart av IPv6? LLMNR
+Vilken typ av namnupplösning klarar av både IPv6 och IPv4? DNS
+Vilken typ av namnupplösning används som sista utväg och klarar bara IPv4 (på lokalt nätverk)? NETBIOS
+Vad heter lager 7 i OSI-modellen? APPLICATION
+Vad heter lager 4 i OSI-modellen? TRANSPORT
+Vilken nummer i OSI-modellen är Data Link layer? 2
+Vilket nummer i OSI-modellen är Physical layer? 1
+På vilket lager i OSI-modellen jobbar en Switch? DATA LINK
+På vilket i OSI-modellen jobbar en Router? NETWORK
+På vilket lager i OSI-modellen jobbar en Brandvägg? TRANSPORT
+På vilket lager i OSI-modellen jobbar IP-protokollet? NETWORK
+På vilket lager i OSI-modellen jobbar TCP-protokollet? TRANSPORT
+På vilket i OSI-modellen jobbar Ethernet (MAC)? DATA LINK
+Vad kallas de meddelanden som skickas på lager 2 (Ethernet)? FRAMES
+Hur många bitar är en MAC-adress? 48
+Vilken av följande MAC-adresser är en multicast-adress? 01-00-5e-00-00-02
+Vilken av följande MAC-adresser är broadcast? ff-ff-ff-ff-ff-ff
+En dator som tillhandahåller en tjänst kalla för... ROUTER
+Vilket begrepp beskriver bäst ett (lokalt) nätverk som administreras av samma organisation LAN
+Vad menas med begreppet "converged network"? att man slår samman olika typer av nätverk till ett nätverk
+
+
+
+
